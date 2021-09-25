@@ -1,0 +1,6 @@
+﻿  task2.cpp
+C:\Users\neiko\source\repos\task2\task2.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neiko\source\repos\task2\task2.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neiko\source\repos\task2\task2.cpp(36,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neiko\source\repos\task2\task2.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+  task2.vcxproj -> C:\Users\neiko\source\repos\task2\Debug\task2.exe
