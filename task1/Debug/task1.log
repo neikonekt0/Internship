@@ -1,0 +1,7 @@
+﻿  task1.cpp
+C:\Users\neiko\source\repos\task1\task1.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neiko\source\repos\task1\task1.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neiko\source\repos\task1\task1.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\neiko\source\repos\task1\task1.cpp(98,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\neiko\source\repos\task1\task1.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+  task1.vcxproj -> C:\Users\neiko\source\repos\task1\Debug\task1.exe

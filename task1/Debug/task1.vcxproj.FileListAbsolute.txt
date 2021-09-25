@@ -1,0 +1,2 @@
+C:\Users\neiko\source\repos\task1\Debug\task1.exe
+C:\Users\neiko\source\repos\task1\Debug\task1.pdb
